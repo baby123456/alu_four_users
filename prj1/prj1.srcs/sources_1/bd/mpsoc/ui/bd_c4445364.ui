@@ -1,0 +1,210 @@
+{
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0.19  2019-03-26 bk=1.5019 VDI=41 GEI=35 GUI=JA:9.0 TLS
+#  -string -flagsOSRD
+preplace port Result -pg 1 -lvl 4 -x 1570 -y 640 -defaultsOSRD
+preplace port Result1 -pg 1 -lvl 4 -x 1570 -y 800 -defaultsOSRD
+preplace port Result2 -pg 1 -lvl 4 -x 1570 -y 960 -defaultsOSRD
+preplace port Result3 -pg 1 -lvl 4 -x 1570 -y 1120 -defaultsOSRD
+preplace port alu1_A -pg 1 -lvl 4 -x 1570 -y 350 -defaultsOSRD
+preplace port alu1_B -pg 1 -lvl 4 -x 1570 -y 370 -defaultsOSRD
+preplace port alu1_op -pg 1 -lvl 4 -x 1570 -y 1860 -defaultsOSRD
+preplace port alu2_A -pg 1 -lvl 4 -x 1570 -y 210 -defaultsOSRD
+preplace port alu2_B -pg 1 -lvl 4 -x 1570 -y 230 -defaultsOSRD
+preplace port alu2_op -pg 1 -lvl 4 -x 1570 -y 2300 -defaultsOSRD
+preplace port alu3_A -pg 1 -lvl 4 -x 1570 -y 490 -defaultsOSRD
+preplace port alu3_B -pg 1 -lvl 4 -x 1570 -y 510 -defaultsOSRD
+preplace port alu3_op -pg 1 -lvl 4 -x 1570 -y 2460 -defaultsOSRD
+preplace port alu_A -pg 1 -lvl 4 -x 1570 -y 70 -defaultsOSRD
+preplace port alu_B -pg 1 -lvl 4 -x 1570 -y 90 -defaultsOSRD
+preplace port alu_op -pg 1 -lvl 4 -x 1570 -y 1420 -defaultsOSRD
+preplace port mips1_cpu_axi_if -pg 1 -lvl 4 -x 1570 -y 2080 -defaultsOSRD
+preplace port mips2_cpu_axi_if -pg 1 -lvl 4 -x 1570 -y 2380 -defaultsOSRD
+preplace port mips3_cpu_axi_if -pg 1 -lvl 4 -x 1570 -y 2540 -defaultsOSRD
+preplace port mips_cpu_axi_if -pg 1 -lvl 4 -x 1570 -y 1780 -defaultsOSRD
+preplace port reg_file1_raddr1 -pg 1 -lvl 4 -x 1570 -y 1990 -defaultsOSRD
+preplace port reg_file1_raddr2 -pg 1 -lvl 4 -x 1570 -y 2010 -defaultsOSRD
+preplace port reg_file1_rdata1 -pg 1 -lvl 4 -x 1570 -y 2150 -defaultsOSRD
+preplace port reg_file1_rdata2 -pg 1 -lvl 4 -x 1570 -y 2170 -defaultsOSRD
+preplace port reg_file1_waddr -pg 1 -lvl 4 -x 1570 -y 2610 -defaultsOSRD
+preplace port reg_file1_wdata -pg 1 -lvl 4 -x 1570 -y 2630 -defaultsOSRD
+preplace port reg_file2_raddr1 -pg 1 -lvl 4 -x 1570 -y 2960 -defaultsOSRD
+preplace port reg_file2_raddr2 -pg 1 -lvl 4 -x 1570 -y 2980 -defaultsOSRD
+preplace port reg_file2_rdata1 -pg 1 -lvl 4 -x 1570 -y 3200 -defaultsOSRD
+preplace port reg_file2_rdata2 -pg 1 -lvl 4 -x 1570 -y 3220 -defaultsOSRD
+preplace port reg_file2_waddr -pg 1 -lvl 4 -x 1570 -y 3340 -defaultsOSRD
+preplace port reg_file2_wdata -pg 1 -lvl 4 -x 1570 -y 3360 -defaultsOSRD
+preplace port reg_file3_raddr1 -pg 1 -lvl 4 -x 1570 -y 3480 -defaultsOSRD
+preplace port reg_file3_raddr2 -pg 1 -lvl 4 -x 1570 -y 3500 -defaultsOSRD
+preplace port reg_file3_rdata1 -pg 1 -lvl 4 -x 1570 -y 3620 -defaultsOSRD
+preplace port reg_file3_rdata2 -pg 1 -lvl 4 -x 1570 -y 3640 -defaultsOSRD
+preplace port reg_file3_waddr -pg 1 -lvl 4 -x 1570 -y 4180 -defaultsOSRD
+preplace port reg_file3_wdata -pg 1 -lvl 4 -x 1570 -y 4200 -defaultsOSRD
+preplace port reg_file_raddr1 -pg 1 -lvl 4 -x 1570 -y 1270 -defaultsOSRD
+preplace port reg_file_raddr2 -pg 1 -lvl 4 -x 1570 -y 1290 -defaultsOSRD
+preplace port reg_file_rdata1 -pg 1 -lvl 4 -x 1570 -y 1550 -defaultsOSRD
+preplace port reg_file_rdata2 -pg 1 -lvl 4 -x 1570 -y 1570 -defaultsOSRD
+preplace port reg_file_waddr -pg 1 -lvl 4 -x 1570 -y 1690 -defaultsOSRD
+preplace port reg_file_wdata -pg 1 -lvl 4 -x 1570 -y 1710 -defaultsOSRD
+preplace port wen -pg 1 -lvl 4 -x 1570 -y 3770 -defaultsOSRD
+preplace port wen1 -pg 1 -lvl 4 -x 1570 -y 3910 -defaultsOSRD
+preplace port wen2 -pg 1 -lvl 4 -x 1570 -y 4050 -defaultsOSRD
+preplace port wen3 -pg 1 -lvl 4 -x 1570 -y 4330 -defaultsOSRD
+preplace port mips_cpu_reset_n -pg 1 -lvl 0 -x 0 -y 2770 -defaultsOSRD
+preplace port ps_fclk_clk0 -pg 1 -lvl 4 -x 1570 -y 2820 -defaultsOSRD
+preplace port ps_user1_reset_n -pg 1 -lvl 4 -x 1570 -y 2720 -defaultsOSRD
+preplace port ps_user2_reset_n -pg 1 -lvl 4 -x 1570 -y 2740 -defaultsOSRD
+preplace port ps_user3_reset_n -pg 1 -lvl 4 -x 1570 -y 2760 -defaultsOSRD
+preplace port ps_user_reset_n -pg 1 -lvl 4 -x 1570 -y 2700 -defaultsOSRD
+preplace portBus CarryOut -pg 1 -lvl 0 -x 0 -y 580 -defaultsOSRD
+preplace portBus CarryOut1 -pg 1 -lvl 0 -x 0 -y 740 -defaultsOSRD
+preplace portBus CarryOut2 -pg 1 -lvl 0 -x 0 -y 900 -defaultsOSRD
+preplace portBus CarryOut3 -pg 1 -lvl 0 -x 0 -y 1060 -defaultsOSRD
+preplace portBus Overflow -pg 1 -lvl 0 -x 0 -y 560 -defaultsOSRD
+preplace portBus Overflow1 -pg 1 -lvl 0 -x 0 -y 720 -defaultsOSRD
+preplace portBus Overflow2 -pg 1 -lvl 0 -x 0 -y 880 -defaultsOSRD
+preplace portBus Overflow3 -pg 1 -lvl 0 -x 0 -y 1040 -defaultsOSRD
+preplace portBus Zero -pg 1 -lvl 0 -x 0 -y 600 -defaultsOSRD
+preplace portBus Zero1 -pg 1 -lvl 0 -x 0 -y 760 -defaultsOSRD
+preplace portBus Zero2 -pg 1 -lvl 0 -x 0 -y 920 -defaultsOSRD
+preplace portBus Zero3 -pg 1 -lvl 0 -x 0 -y 1080 -defaultsOSRD
+preplace portBus reg_file_rst -pg 1 -lvl 4 -x 1570 -y 3090 -defaultsOSRD
+preplace inst axi_gpio_alu_op -pg 1 -lvl 3 -x 1220 -y 1420 -defaultsOSRD
+preplace inst axi_gpio_alu_op1 -pg 1 -lvl 3 -x 1220 -y 1860 -defaultsOSRD
+preplace inst axi_gpio_alu_op2 -pg 1 -lvl 3 -x 1220 -y 2300 -defaultsOSRD
+preplace inst axi_gpio_alu_op3 -pg 1 -lvl 3 -x 1220 -y 2460 -defaultsOSRD
+preplace inst axi_gpio_alu_operand -pg 1 -lvl 3 -x 1220 -y 80 -defaultsOSRD
+preplace inst axi_gpio_alu_operand1 -pg 1 -lvl 3 -x 1220 -y 360 -defaultsOSRD
+preplace inst axi_gpio_alu_operand2 -pg 1 -lvl 3 -x 1220 -y 220 -defaultsOSRD
+preplace inst axi_gpio_alu_operand3 -pg 1 -lvl 3 -x 1220 -y 500 -defaultsOSRD
+preplace inst axi_gpio_alu_res -pg 1 -lvl 3 -x 1220 -y 660 -defaultsOSRD
+preplace inst axi_gpio_alu_res1 -pg 1 -lvl 3 -x 1220 -y 820 -defaultsOSRD
+preplace inst axi_gpio_alu_res2 -pg 1 -lvl 3 -x 1220 -y 980 -defaultsOSRD
+preplace inst axi_gpio_alu_res3 -pg 1 -lvl 3 -x 1220 -y 1140 -defaultsOSRD
+preplace inst axi_gpio_gpr_raddr -pg 1 -lvl 3 -x 1220 -y 1280 -defaultsOSRD
+preplace inst axi_gpio_gpr_raddr1 -pg 1 -lvl 3 -x 1220 -y 2000 -defaultsOSRD
+preplace inst axi_gpio_gpr_raddr2 -pg 1 -lvl 3 -x 1220 -y 2970 -defaultsOSRD
+preplace inst axi_gpio_gpr_raddr3 -pg 1 -lvl 3 -x 1220 -y 3490 -defaultsOSRD
+preplace inst axi_gpio_gpr_rdata -pg 1 -lvl 3 -x 1220 -y 1560 -defaultsOSRD
+preplace inst axi_gpio_gpr_rdata1 -pg 1 -lvl 3 -x 1220 -y 2160 -defaultsOSRD
+preplace inst axi_gpio_gpr_rdata2 -pg 1 -lvl 3 -x 1220 -y 3210 -defaultsOSRD
+preplace inst axi_gpio_gpr_rdata3 -pg 1 -lvl 3 -x 1220 -y 3630 -defaultsOSRD
+preplace inst axi_gpio_gpr_wen -pg 1 -lvl 3 -x 1220 -y 3770 -defaultsOSRD
+preplace inst axi_gpio_gpr_wen1 -pg 1 -lvl 3 -x 1220 -y 3910 -defaultsOSRD
+preplace inst axi_gpio_gpr_wen2 -pg 1 -lvl 3 -x 1220 -y 4050 -defaultsOSRD
+preplace inst axi_gpio_gpr_wen3 -pg 1 -lvl 3 -x 1220 -y 4330 -defaultsOSRD
+preplace inst axi_gpio_gpr_wr -pg 1 -lvl 3 -x 1220 -y 1700 -defaultsOSRD
+preplace inst axi_gpio_gpr_wr1 -pg 1 -lvl 3 -x 1220 -y 2620 -defaultsOSRD
+preplace inst axi_gpio_gpr_wr2 -pg 1 -lvl 3 -x 1220 -y 3350 -defaultsOSRD
+preplace inst axi_gpio_gpr_wr3 -pg 1 -lvl 3 -x 1220 -y 4190 -defaultsOSRD
+preplace inst concat_alu_tag -pg 1 -lvl 1 -x 210 -y 580 -defaultsOSRD
+preplace inst concat_alu_tag1 -pg 1 -lvl 1 -x 210 -y 740 -defaultsOSRD
+preplace inst concat_alu_tag2 -pg 1 -lvl 1 -x 210 -y 900 -defaultsOSRD
+preplace inst concat_alu_tag3 -pg 1 -lvl 1 -x 210 -y 1060 -defaultsOSRD
+preplace inst ps8_0_axi_periph -pg 1 -lvl 2 -x 570 -y 2090 -defaultsOSRD
+preplace inst reg_file_reset -pg 1 -lvl 3 -x 1220 -y 3090 -defaultsOSRD
+preplace inst rst_ps8_0_99M -pg 1 -lvl 1 -x 210 -y 2930 -defaultsOSRD
+preplace inst zynq_ultra_ps_e_0 -pg 1 -lvl 3 -x 1220 -y 2800 -defaultsOSRD
+preplace netloc CarryOut1_1 1 0 1 NJ 740
+preplace netloc CarryOut2_1 1 0 1 NJ 900
+preplace netloc CarryOut3_1 1 0 1 NJ 1060
+preplace netloc In0_0_1 1 0 1 NJ 560
+preplace netloc In1_0_1 1 0 1 NJ 580
+preplace netloc In2_0_1 1 0 1 NJ 600
+preplace netloc M07_ARESETN_1 1 0 2 NJ 2770 410
+preplace netloc Overflow1_1 1 0 1 NJ 720
+preplace netloc Overflow2_1 1 0 1 NJ 880
+preplace netloc Overflow3_1 1 0 1 NJ 1040
+preplace netloc Zero1_1 1 0 1 NJ 760
+preplace netloc Zero2_1 1 0 1 NJ 920
+preplace netloc Zero3_1 1 0 1 NJ 1080
+preplace netloc concat_alu_tag1_dout 1 1 3 N 740 NJ 740 1550
+preplace netloc concat_alu_tag2_dout 1 1 3 N 900 NJ 900 1550
+preplace netloc concat_alu_tag3_dout 1 1 3 N 1060 NJ 1060 1550
+preplace netloc concat_alu_tag_dout 1 1 3 N 580 NJ 580 1550
+preplace netloc reg_file_reset_Res 1 3 1 NJ 3090
+preplace netloc rst_ps8_0_99M_peripheral_aresetn 1 1 2 390 1340 840
+preplace netloc zynq_ultra_ps_e_0_pl_clk0 1 0 4 20 2750 400 1350 830 2700 1540
+preplace netloc zynq_ultra_ps_e_0_pl_resetn0 1 0 4 30 2830 NJ 2830 890J 2710 1550
+preplace netloc axi_gpio_alu_op1_GPIO 1 3 1 NJ 1860
+preplace netloc axi_gpio_alu_op2_GPIO 1 3 1 NJ 2300
+preplace netloc axi_gpio_alu_op3_GPIO 1 3 1 NJ 2460
+preplace netloc axi_gpio_alu_op_GPIO 1 3 1 NJ 1420
+preplace netloc axi_gpio_alu_operand1_GPIO 1 3 1 NJ 350
+preplace netloc axi_gpio_alu_operand1_GPIO2 1 3 1 NJ 370
+preplace netloc axi_gpio_alu_operand2_GPIO 1 3 1 NJ 210
+preplace netloc axi_gpio_alu_operand2_GPIO2 1 3 1 NJ 230
+preplace netloc axi_gpio_alu_operand3_GPIO 1 3 1 NJ 490
+preplace netloc axi_gpio_alu_operand3_GPIO2 1 3 1 NJ 510
+preplace netloc axi_gpio_alu_operand_GPIO 1 3 1 NJ 70
+preplace netloc axi_gpio_alu_operand_GPIO2 1 3 1 NJ 90
+preplace netloc axi_gpio_alu_res1_GPIO 1 3 1 NJ 800
+preplace netloc axi_gpio_alu_res2_GPIO 1 3 1 NJ 960
+preplace netloc axi_gpio_alu_res3_GPIO 1 3 1 NJ 1120
+preplace netloc axi_gpio_alu_res_GPIO 1 3 1 NJ 640
+preplace netloc axi_gpio_gpr_raddr1_GPIO 1 3 1 NJ 1990
+preplace netloc axi_gpio_gpr_raddr1_GPIO2 1 3 1 NJ 2010
+preplace netloc axi_gpio_gpr_raddr2_GPIO 1 3 1 NJ 2960
+preplace netloc axi_gpio_gpr_raddr2_GPIO2 1 3 1 NJ 2980
+preplace netloc axi_gpio_gpr_raddr3_GPIO 1 3 1 NJ 3480
+preplace netloc axi_gpio_gpr_raddr3_GPIO2 1 3 1 NJ 3500
+preplace netloc axi_gpio_gpr_raddr_GPIO 1 3 1 NJ 1270
+preplace netloc axi_gpio_gpr_raddr_GPIO2 1 3 1 NJ 1290
+preplace netloc axi_gpio_gpr_rdata1_GPIO 1 3 1 NJ 2150
+preplace netloc axi_gpio_gpr_rdata1_GPIO2 1 3 1 NJ 2170
+preplace netloc axi_gpio_gpr_rdata2_GPIO 1 3 1 NJ 3200
+preplace netloc axi_gpio_gpr_rdata2_GPIO2 1 3 1 NJ 3220
+preplace netloc axi_gpio_gpr_rdata3_GPIO 1 3 1 NJ 3620
+preplace netloc axi_gpio_gpr_rdata3_GPIO2 1 3 1 NJ 3640
+preplace netloc axi_gpio_gpr_rdata_GPIO 1 3 1 NJ 1550
+preplace netloc axi_gpio_gpr_rdata_GPIO2 1 3 1 NJ 1570
+preplace netloc axi_gpio_gpr_wen1_GPIO 1 3 1 NJ 3910
+preplace netloc axi_gpio_gpr_wen2_GPIO 1 3 1 NJ 4050
+preplace netloc axi_gpio_gpr_wen3_GPIO 1 3 1 NJ 4330
+preplace netloc axi_gpio_gpr_wen_GPIO 1 3 1 NJ 3770
+preplace netloc axi_gpio_gpr_wr1_GPIO 1 3 1 NJ 2610
+preplace netloc axi_gpio_gpr_wr1_GPIO2 1 3 1 NJ 2630
+preplace netloc axi_gpio_gpr_wr2_GPIO 1 3 1 NJ 3340
+preplace netloc axi_gpio_gpr_wr2_GPIO2 1 3 1 NJ 3360
+preplace netloc axi_gpio_gpr_wr3_GPIO 1 3 1 NJ 4180
+preplace netloc axi_gpio_gpr_wr3_GPIO2 1 3 1 NJ 4200
+preplace netloc axi_gpio_gpr_wr_GPIO 1 3 1 NJ 1690
+preplace netloc axi_gpio_gpr_wr_GPIO2 1 3 1 NJ 1710
+preplace netloc ps8_0_axi_periph_M00_AXI 1 2 1 720 60n
+preplace netloc ps8_0_axi_periph_M01_AXI 1 2 1 750 1400n
+preplace netloc ps8_0_axi_periph_M02_AXI 1 2 1 730 640n
+preplace netloc ps8_0_axi_periph_M03_AXI 1 2 1 810 1680n
+preplace netloc ps8_0_axi_periph_M04_AXI 1 2 1 750 1860n
+preplace netloc ps8_0_axi_periph_M05_AXI 1 2 1 790 1260n
+preplace netloc ps8_0_axi_periph_M06_AXI 1 2 1 820 1540n
+preplace netloc ps8_0_axi_periph_M07_AXI 1 2 2 880J 1780 NJ
+preplace netloc ps8_0_axi_periph_M08_AXI 1 2 1 740 340n
+preplace netloc ps8_0_axi_periph_M09_AXI 1 2 1 890 1840n
+preplace netloc ps8_0_axi_periph_M10_AXI 1 2 1 800 800n
+preplace netloc ps8_0_axi_periph_M11_AXI 1 2 1 800 2000n
+preplace netloc ps8_0_axi_periph_M12_AXI 1 2 1 820 2020n
+preplace netloc ps8_0_axi_periph_M13_AXI 1 2 1 890 1980n
+preplace netloc ps8_0_axi_periph_M14_AXI 1 2 1 890 2060n
+preplace netloc ps8_0_axi_periph_M15_AXI 1 2 2 NJ 2080 NJ
+preplace netloc ps8_0_axi_periph_M16_AXI 1 2 1 760 200n
+preplace netloc ps8_0_axi_periph_M17_AXI 1 2 1 880 2120n
+preplace netloc ps8_0_axi_periph_M18_AXI 1 2 1 870 960n
+preplace netloc ps8_0_axi_periph_M19_AXI 1 2 1 720 2160n
+preplace netloc ps8_0_axi_periph_M20_AXI 1 2 1 790 2180n
+preplace netloc ps8_0_axi_periph_M21_AXI 1 2 1 860 2200n
+preplace netloc ps8_0_axi_periph_M22_AXI 1 2 1 810 2220n
+preplace netloc ps8_0_axi_periph_M23_AXI 1 2 2 870J 2380 NJ
+preplace netloc ps8_0_axi_periph_M24_AXI 1 2 1 850 480n
+preplace netloc ps8_0_axi_periph_M25_AXI 1 2 1 850 2280n
+preplace netloc ps8_0_axi_periph_M26_AXI 1 2 1 770 1120n
+preplace netloc ps8_0_axi_periph_M27_AXI 1 2 1 740 2320n
+preplace netloc ps8_0_axi_periph_M28_AXI 1 2 1 730 2340n
+preplace netloc ps8_0_axi_periph_M29_AXI 1 2 1 770 2360n
+preplace netloc ps8_0_axi_periph_M30_AXI 1 2 1 760 2380n
+preplace netloc ps8_0_axi_periph_M31_AXI 1 2 2 780J 2540 NJ
+preplace netloc zynq_ultra_ps_e_0_M_AXI_HPM0_LPD 1 1 3 420 2890 NJ 2890 1530
+levelinfo -pg 1 0 210 570 1220 1570
+pagesize -pg 1 -db -bbox -sgen -180 0 1750 4410
+"
+}
+
